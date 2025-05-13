@@ -2,3 +2,4 @@
 *.txt
 webserv
 Webserv.log
+.secrets
